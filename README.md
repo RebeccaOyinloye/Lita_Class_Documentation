@@ -2,6 +2,18 @@
 
 ### Project Title: Sales Analysis 
 
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources)
+
+[Tools Used](#tools-used)
+
+[Data Cleaning and Preparation](#data-cleaning-and-preparation)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Analysis](#data-analysis)
+
 ### Project Overview
 ---
 This Data Analysis Project aims to generate insights into the sales performance of various brands across different countries over the past month and years. By analyzing the various parameters in the data received we seek to identify top performing brand and region, uncover insights into sales trends and patterns and tell compelling stories around our data from the insights gotten. 
@@ -28,7 +40,7 @@ EDA involves the exploring of the data to ask some quetsions such as;
 - which brand are top sellers
 - which country is at the peak of sale
 
-### Data Analysis 💻
+### Data Analysis
 ---
 This is where we include some basic line of code or queries or even some of the DAX expressions used during your Analysis
 
